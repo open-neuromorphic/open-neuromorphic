@@ -6,7 +6,11 @@ Open-source software to train spiking neural networks. In these the tools, the g
 
 ![nengo-image](../images/nengo.jpg)
 
-The Nengo Brain Maker is a Python package for building, testing, and deploying neural networks.
+[Nengo](https://nengo.ai) is a Python package for building, testing, and deploying neural networks.
+
+![nengo-structure-image](../images/nengo_structure.svg)
+
+It supports plenty of backends for the SNN simulation.
 
 ## Brian
 
