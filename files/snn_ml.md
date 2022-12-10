@@ -13,7 +13,7 @@ It is based on PyTorch for GPU acceleration and gradient computation.
 
 ![norse-image](../images/norse.png)
 
-Norse aims to exploit the advantages of bio-inspired neural components, which are sparse and event-driven - a fundamental difference from artificial neural networks. Norse expands PyTorch with primitives for bio-inspired neural components, bringing you two advantages: a modern and proven infrastructure based on PyTorch and deep learning-compatible spiking neural network components.
+[Norse](https://norse.github.io/norse/) aims at exploiting the advantages of bio-inspired neural components, which are sparse and event-driven - a fundamental difference from artificial neural networks. Norse expands PyTorch with primitives for bio-inspired neural components, bringing you two advantages: a modern and proven infrastructure based on PyTorch and deep learning-compatible spiking neural network components.
 
 ## Sinabs
 
@@ -31,7 +31,5 @@ Norse aims to exploit the advantages of bio-inspired neural components, which ar
 
 ![bindsnet-image](../images/bindsnet.png)
 
-A Python package used for simulating spiking neural networks (SNNs) on CPUs or GPUs using PyTorch Tensor functionality.
-
-BindsNET is a spiking neural network simulation library geared towards the development of biologically inspired algorithms for machine learning.
+[BindsNET](https://bindsnet-docs.readthedocs.io/) is built on top of the PyTorch deep learning platform. It is used for the simulation of spiking neural networks (SNNs) and is geared towards machine learning and reinforcement learning.
 
