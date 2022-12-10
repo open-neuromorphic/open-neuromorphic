@@ -29,8 +29,14 @@ ODIN is thus a versatile experimentation platform for learning at the edge, whil
 
 [SNE](https://github.com/pulp-platform/sne) is a novel digital sparse neural engine (SNE) to efficiently accelerate SNN inference tasks at the extreme edge. The accelerator exploits an explicit input event temporal and spatial location encoding; the SNE architecture is designed to improve input data and weight reuse, reducing the traffic towards the memory. SNE achieves a maximum performance of 51.2 GSOP/s, and an energy efficiency of 4.5TSOP/s/W. Ultimately, SNE shows 3.55X higher energy efficiency than SoA neuromorphic platform [16], approaching classical DNN accelerators energy efficiencies, while performing energy-proportional computations. As a proof of concept, it is shown that SNE consumes 0.221 pJ/SOP and achieves 92.8% accuracy on a classification task performed on the IBM DVS-Gesture data set. 
 
-## A Lightweight Spiking Neural Network Accelerator
+## A Lightweight Spiking Neural Network Accelerator [Google Shuttle]
 
-<img src="../images/snn-accelerator-digital-jason.png" alt="snn-accelerator-digital-jason" width="400"/>
+<img src="../images/snn-asic-google-jason.png" alt="snn-asic-google-jason" width="500"/>
 
 [A spiking neural network accelerator](https://github.com/jeshraghian/snn-accelerator) in the SkyWater 130nm process using heterogenous time constants to model a variety of temporal dynamics. Input events can be streamed at a rate of up to 50 MEvents per second, and the accelerator can process them in a dense network with 128 hidden neurons at up to approximately 214 MHz.
+
+## SNN ASIC accelerator [Google Shuttle]
+
+<img src="../images/snn-asic-google-pengzhou.png" alt="snn-asic-google-pengzhou" width="500"/>
+
+An [SNN ASIC](https://github.com/pengzhouzp/wrapped_snn_network) with adaptive threshold neurons and recurrent connective synapses.
