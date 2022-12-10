@@ -1,8 +1,14 @@
 # Open Neuromorphic
 
-It is well know that in deep learning and machine learning open-source is extremely diffused: the first projects that come to mind in that regard are [PyTorch](https://www.pytorch.org) and [TensorFlow](https://www.tensorflow.org/). Thanks to open-source, the machile learning community has grown tremendously in the last years. 
+It is well know that in deep learning and machine learning open-source is extremely diffused: the first projects that come to mind in that regard are [PyTorch](https://www.pytorch.org) and [TensorFlow](https://www.tensorflow.org/). Thanks to open-source, the machine learning community has grown tremendously in the last years. 
 
-List of open source neuromorphic resources: SNN training frameworks, DVS handling routines and so on.
+We wish that the same can happen in the neuromorphic domain! For this reason, we have created this GitHub organization, **Open Neuromorphic**, which goal is to list the relevant open-source projects available nowadays in the neuromorphic domain, for both software and hardware. The repositories hosted in this organization are simple forks of the original projects, to allow the user to easily go through the options and visit the repositories/websites. 
+
+The projects reported here refer to:
+- Spiking Neural Networks (SNNs) training and/or inference, for both ML and neuroscience application.
+- event-based cameras data handling.
+- digital hardware designs for neuromorphic applications.
+- mixed-signal hardware designs for neuromorphic applications.
 
 ## List of resources
 
@@ -12,5 +18,3 @@ List of open source neuromorphic resources: SNN training frameworks, DVS handlin
 - [DVS data handling](files/dvs.md).
 - [digital](files/digital_hw.md) hardware.
 - [mixed-signal](files/mixed_signal_hw.md) hardware.
-
-
