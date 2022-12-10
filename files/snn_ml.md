@@ -23,7 +23,7 @@ It is based on PyTorch for GPU acceleration and gradient computation.
 
 ## Rockpool
 
-![rockpool-image](../images/rockpool.png)
+<img src="../images/rockpool.png" alt="rockpool" width="400"/>
 
 [Rockpool](https://synsense.gitlab.io/rockpool/) is a Python package for working with dynamical neural network architectures, particularly for designing event-driven networks for Neuromorphic computing hardware. Rockpool provides a convenient interface for designing, training and evaluating recurrent networks, which can operate both with continuous-time dynamics and event-driven dynamics.
 
