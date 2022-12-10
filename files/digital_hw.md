@@ -1,6 +1,6 @@
-# Hardware
+# Digital hardware projects
 
-Open-source hardware projects. 
+Open-source digital hardware projects. 
 
 ## ODIN Spiking Neural Network (SNN) Processor
 
