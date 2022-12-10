@@ -15,7 +15,7 @@ ODIN is thus a versatile experimentation platform for learning at the edge, whil
 
 ## ReckOn: A Spiking RNN Processor Enabling On-Chip Learning over Second-Long Timescales
 
-<img src="../images/odin-frenkel.png" alt="odin-frenkel" width="500"/>
+<img src="../images/reckon-frenkel.png" alt="reckon-frenkel" width="500"/>
 
 [ReckOn](https://github.com/ChFrenkel/ReckOn) is a spiking recurrent neural network (RNN) processor enabling on-chip learning over second-long timescales based on a modified version of the e-prop algorithm (we released a PyTorch implementation of the vanilla e-prop algorithm for leaky integrate-and-fire neurons here). It was prototyped and measured in 28-nm FDSOI CMOS at the Institute of Neuroinformatics, University of Zurich and ETH Zurich, and published at the 2022 IEEE International Solid-State Circuits Conference (ISSCC) with the following three main claims:
 
@@ -24,6 +24,8 @@ ODIN is thus a versatile experimentation platform for learning at the edge, whil
 - it exploits a spike-based representation for task-agnostic learning toward user customization and chip repurposing at the edge.
 
 ## SNE: an Energy-Proportional Digital Accelerator for Sparse Event-Based Convolutions 
+
+<img src="../images/sne-di-mauro.png" alt="sne-di-mauro" width="500"/>
 
 [SNE](https://github.com/pulp-platform/sne) is a novel digital sparse neural engine (SNE) to efficiently accelerate SNN inference tasks at the extreme edge. The accelerator exploits an explicit input event temporal and spatial location encoding; the SNE architecture is designed to improve input data and weight reuse, reducing the traffic towards the memory. SNE achieves a maximum performance of 51.2 GSOP/s, and an energy efficiency of 4.5TSOP/s/W. Ultimately, SNE shows 3.55X higher energy efficiency than SoA neuromorphic platform [16], approaching classical DNN accelerators energy efficiencies, while performing energy-proportional computations. As a proof of concept, it is shown that SNE consumes 0.221 pJ/SOP and achieves 92.8% accuracy on a classification task performed on the IBM DVS-Gesture data set. 
 
