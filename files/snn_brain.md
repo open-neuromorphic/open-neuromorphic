@@ -2,16 +2,6 @@
 
 Open-source software to train spiking neural networks. In these the tools, the goal is to emulate the human brain as efficiently as possible, instead of optimizing neuron model and simulation for speeding up AI tasks.
 
-## Nengo
-
-![nengo-image](../images/nengo.jpg)
-
-[Nengo](https://nengo.ai) is a Python package for building, testing, and deploying neural networks.
-
-![nengo-structure-image](../images/nengo_structure.svg)
-
-It supports plenty of backends for the SNN simulation.
-
 ## Brian
 
 ![brian-image](../images/brian.png)
