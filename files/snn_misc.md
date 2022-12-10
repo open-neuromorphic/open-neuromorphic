@@ -1,4 +1,4 @@
-# SNN training frameworks
+# SNN training frameworks for ML and neuroscience
 
 Open-source software to train spiking neural networks for both neuroscience and ML applications.
 
