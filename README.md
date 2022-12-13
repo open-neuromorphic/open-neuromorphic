@@ -45,7 +45,7 @@ It is based on PyTorch for GPU acceleration and gradient computation.
 
 ### BindsNET
 
-<img src="images/bindsnet.png" alt="bindsnet" width="500"/>
+<img src="images/bindsnet.jpg" alt="bindsnet" width="500"/>
 
 [BindsNET](https://bindsnet-docs.readthedocs.io/) is built on top of the PyTorch deep learning platform. It is used for the simulation of spiking neural networks (SNNs) and is geared towards machine learning and reinforcement learning.
 
