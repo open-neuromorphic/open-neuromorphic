@@ -1,16 +1,16 @@
+![logo](images/ONM.png)
 # Open Neuromorphic
 
-![logo](images/ONM.png)
+This organisation is created by a loose collective of open source collaborators across academia, industry and individual contributors. What connects us is the love for building tools that can be used in the neuromorphic community and we want to share ownership of this vision. Open Neuromorphic (ONM) provides two things:
 
-It is well known that in deep learning and machine learning open-source is extremely diffused: the first projects that come to mind in that regard are [PyTorch](https://www.pytorch.org) and [TensorFlow](https://www.tensorflow.org/). Thanks to open-source, the machine learning community has grown tremendously in the last years. 
+1. A curated list of software frameworks to make it easier to find the tool you need.
+2. A platform for your code. If you wish to create a new repository or migrate your existing code to ONM, please get in touch with us. You will be made a member of this organisation immediately. 
 
-We wish that the same can happen in the neuromorphic domain! For this reason, we have created this GitHub organization, **Open Neuromorphic**. Our goal is to list relevant open-source projects available in the neuromorphic domain for both software and hardware. The repositories hosted in this organization are simple forks of the original projects, to allow the user to easily go through the options and visit the repositories/websites. 
-
-The projects reported here refer to:
+Projects that we list here can fall into this non-exclusive list of categories:
 - Spiking Neural Networks (SNNs) training and/or inference, for both ML and neuroscience application.
-- event-based cameras data handling.
-- digital hardware designs for neuromorphic applications.
-- mixed-signal hardware designs for neuromorphic applications.
+- Event-based sensor data handling.
+- Digital hardware designs for neuromorphic applications.
+- Mixed-signal hardware designs for neuromorphic applications.
 
 # List of resources
 
