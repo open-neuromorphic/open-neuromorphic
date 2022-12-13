@@ -156,7 +156,7 @@ ODIN is thus a versatile experimentation platform for learning at the edge, whil
 
 ## A Lightweight Spiking Neural Network Accelerator [Google Shuttle]
 
-<img src="../images/snn-asic-google-jason.png" alt="snn-asic-google-jason" width="500"/>
+<img src="images/snn-asic-google-jason.png" alt="snn-asic-google-jason" width="500"/>
 
 [A spiking neural network accelerator](https://github.com/jeshraghian/snn-accelerator) in the SkyWater 130nm process using heterogenous time constants to model a variety of temporal dynamics. Input events can be streamed at a rate of up to 50 MEvents per second, and the accelerator can process them in a dense network with 128 hidden neurons at up to approximately 214 MHz.
 
