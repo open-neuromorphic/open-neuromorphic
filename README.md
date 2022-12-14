@@ -148,6 +148,12 @@ ODIN is thus a versatile experimentation platform for learning at the edge, whil
 - it provides a low-cost solution with a 0.45-mm² core area, 5.3pJ/SOP at 0.5V, and a memory overhead of only 0.8% compared to the equivalent inference-only network,
 - it exploits a spike-based representation for task-agnostic learning toward user customization and chip repurposing at the edge.
 
+### RANC - Reconfigurable Architecture for Neuromorphic Computing
+
+<img src="images/ranc.png" alt="ranc" width="500"/>
+
+[RANC](https://ua-rcl.github.io/RANC/) is a highly flexible environment that enables rapid experimentation with neuromorphic architectures in both software via C++ simulation and hardware via FPGA emulation. RANC enables hardware architects and application engineers to investigate and tune parameters of their neuromorphic architecture that would otherwise be unavailable on a purely prefabricated ASIC. This level of flexibility creates an environment that allows for optimizing architectures based on application insights as well as prototyping future neuromorphic architectures that can support new classes of applications entirely.
+
 ### SNE: an Energy-Proportional Digital Accelerator for Sparse Event-Based Convolutions 
 
 <img src="images/sne-di-mauro.png" alt="sne-di-mauro" width="500"/>
