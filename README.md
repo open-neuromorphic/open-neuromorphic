@@ -12,6 +12,8 @@ Projects that we list here can fall into this non-exclusive list of categories:
 - Digital hardware designs for neuromorphic applications.
 - Mixed-signal hardware designs for neuromorphic applications.
 
+Get in touch with the organization on [Discord](https://discord.gg/JParSCNe5k)!
+
 # List of resources
 
 ## SNN training frameworks for ML
