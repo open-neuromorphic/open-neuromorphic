@@ -31,7 +31,9 @@ Open-source software to train spiking neural networks for ML tasks.
 
 </td>
 <td>
-<iframe src="https://ghbtns.com/github-btn.html?user=bindsnet&repo=bindsnet&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
+
+![](https://img.shields.io/github/stars/bindsnet/bindsnet?style=social)
+
 </td>
 </tr>
 
@@ -43,7 +45,9 @@ Open-source software to train spiking neural networks for ML tasks.
 
 </td>
 <td>
-<iframe src="https://ghbtns.com/github-btn.html?user=norse&repo=norse&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30"></iframe>
+
+![](https://img.shields.io/github/stars/norse/norse?style=social)
+
 </td>
 </tr>
 
@@ -55,7 +59,9 @@ Open-source software to train spiking neural networks for ML tasks.
 
 </td>
 <td>
-<iframe src="https://ghbtns.com/github-btn.html?user=synsense&repo=rockpool&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
+
+![](https://img.shields.io/github/stars/synsense/rockpool?style=social)
+
 </td>
 </tr>
 
@@ -68,7 +74,9 @@ It is based on PyTorch for GPU acceleration and gradient computation.
 
 </td>
 <td>
-<iframe src="https://ghbtns.com/github-btn.html?user=jeshraghian&repo=snntorch&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
+
+![](https://img.shields.io/github/stars/jeshraghian/snntorch?style=social)
+
 </td>
 </tr>
 
@@ -80,7 +88,9 @@ It is based on PyTorch for GPU acceleration and gradient computation.
 
 </td>
 <td>
-<iframe src="https://ghbtns.com/github-btn.html?user=synsense&repo=sinabs&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
+
+![](https://img.shields.io/github/stars/synsense/sinabs?style=social)
+
 </td>
 </tr>
 
