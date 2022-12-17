@@ -24,13 +24,14 @@ Open-source software to train spiking neural networks for ML tasks.
 <table>
 
 <tr>
-<td><a href="https://bindsnet-docs.readthedocs.io/"><img src="images/bindsnet.jpg" alt="bindsnet"/></a></td>
-<td>
+<td style="width: 33%;">
+<a href="https://bindsnet-docs.readthedocs.io/"><img src="images/bindsnet.jpg" alt="bindsnet"/></a></td>
+<td style="width: 50%;">
 
 [BindsNET](https://bindsnet-docs.readthedocs.io/) is built on top of the PyTorch deep learning platform. It is used for the simulation of spiking neural networks (SNNs) and is geared towards machine learning and reinforcement learning.
 
 </td>
-<td>
+<td style="width: 16%;">
 
 ![](https://img.shields.io/github/stars/bindsnet/bindsnet?style=social)
 
@@ -46,7 +47,7 @@ Open-source software to train spiking neural networks for ML tasks.
 </td>
 <td>
 
-![](https://img.shields.io/github/stars/norse/norse?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/norse/norse?style=social)
 
 </td>
 </tr>
