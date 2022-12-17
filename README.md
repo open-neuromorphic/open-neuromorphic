@@ -20,36 +20,72 @@ Get in touch with the organization on [Discord](https://discord.gg/JParSCNe5k)!
 
 Open-source software to train spiking neural networks for ML tasks.
 
-### snnTorch
 
-<img src="images/snntorch.png" alt="snntorch" width="500"/>
+<table>
+
+<tr>
+<td><img src="images/bindsnet.jpg" alt="bindsnet"/></td>
+<td>
+
+[BindsNET](https://bindsnet-docs.readthedocs.io/) is built on top of the PyTorch deep learning platform. It is used for the simulation of spiking neural networks (SNNs) and is geared towards machine learning and reinforcement learning.
+
+</td>
+<td>
+<iframe src="https://ghbtns.com/github-btn.html?user=bindsnet&repo=bindsnet&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
+</td>
+</tr>
+
+<tr>
+<td><img src="images/norse.png" alt="Norse"/></td>
+<td>
+
+[Norse](https://norse.github.io/norse/) aims at exploiting the advantages of bio-inspired neural components, which are sparse and event-driven - a fundamental difference from artificial neural networks. Norse expands PyTorch with primitives for bio-inspired neural components, bringing you two advantages: a modern and proven infrastructure based on PyTorch and deep learning-compatible spiking neural network components.
+
+</td>
+<td>
+<iframe src="https://ghbtns.com/github-btn.html?user=norse&repo=norse&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30"></iframe>
+</td>
+</tr>
+
+<tr>
+<td><img src="images/rockpool.png" alt="Rockpool" width="400px"/></td>
+<td>
+
+[Rockpool](https://synsense.gitlab.io/rockpool/) is a Python package for working with dynamical neural network architectures, particularly for designing event-driven networks for Neuromorphic computing hardware. Rockpool provides a convenient interface for designing, training and evaluating recurrent networks, which can operate both with continuous-time dynamics and event-driven dynamics.
+
+</td>
+<td>
+<iframe src="https://ghbtns.com/github-btn.html?user=synsense&repo=rockpool&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
+</td>
+</tr>
+
+<tr>
+<td><img src="images/snntorch.png" alt="snnTorch" width="400px"/></td>
+<td>
 
 [snnTorch](https://github.com/jeshraghian/snntorch) is a SNN training framework for machine learning applications. It is focused on gradient-based training of SNNs. 
 It is based on PyTorch for GPU acceleration and gradient computation. 
 
-### Norse
+</td>
+<td>
+<iframe src="https://ghbtns.com/github-btn.html?user=jeshraghian&repo=snntorch&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
+</td>
+</tr>
 
-<img src="images/norse.png" alt="norse" width="500"/>
-
-[Norse](https://norse.github.io/norse/) aims at exploiting the advantages of bio-inspired neural components, which are sparse and event-driven - a fundamental difference from artificial neural networks. Norse expands PyTorch with primitives for bio-inspired neural components, bringing you two advantages: a modern and proven infrastructure based on PyTorch and deep learning-compatible spiking neural network components.
-
-### Sinabs
-
-<img src="images/sinabs.png" alt="sinabs" width="500"/>
+<tr>
+<td><img src="images/sinabs.png" alt="Sinabs" width="400px"/></td>
+<td>
 
 [Sinabs](https://sinabs.readthedocs.io) is a deep learning library based on PyTorch for spiking neural networks, with a focus on simplicity, fast training and extendability. Sinabs works well for Vision models because of its support for weight transfer.
 
-### Rockpool
+</td>
+<td>
+<iframe src="https://ghbtns.com/github-btn.html?user=synsense&repo=sinabs&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
+</td>
+</tr>
 
-<img src="images/rockpool.png" alt="rockpool" width="500"/>
+</table>
 
-[Rockpool](https://synsense.gitlab.io/rockpool/) is a Python package for working with dynamical neural network architectures, particularly for designing event-driven networks for Neuromorphic computing hardware. Rockpool provides a convenient interface for designing, training and evaluating recurrent networks, which can operate both with continuous-time dynamics and event-driven dynamics.
-
-### BindsNET
-
-<img src="images/bindsnet.jpg" alt="bindsnet" width="500"/>
-
-[BindsNET](https://bindsnet-docs.readthedocs.io/) is built on top of the PyTorch deep learning platform. It is used for the simulation of spiking neural networks (SNNs) and is geared towards machine learning and reinforcement learning.
 
 ## SNN training frameworks for neuroscience
 
