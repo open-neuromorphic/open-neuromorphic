@@ -134,7 +134,6 @@ Open-source software to train spiking neural networks for both neuroscience and 
 
 [Nengo](https://nengo.ai) is a Python package for building, testing, and deploying neural networks.
 It supports plenty of backends for the SNN simulation.
-<img src="images/nengo_structure.svg" alt="nengo_structure" width="350"/>
 
 </td>
 </tr>
