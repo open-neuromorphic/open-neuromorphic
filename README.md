@@ -73,6 +73,18 @@ It is based on PyTorch for GPU acceleration and gradient computation.
 </tr>
 
 <tr>
+<td>
+ 
+![GitHub Repo stars](https://img.shields.io/github/stars/fangwei123456/spikingjelly?style=social)</td>
+<td>
+
+[SpikingJelly](https://github.com/fangwei123456/spikingjelly) is an open-source deep learning framework for Spiking Neural Network (SNN) based on PyTorch.
+The documentation of SpikingJelly is written in both English and Chinese: https://spikingjelly.readthedocs.io.
+
+</td>
+</tr>
+
+<tr>
 <td><a href="https://sinabs.readthedocs.io"><img src="images/sinabs.png" alt="Sinabs" width="1000px"/></a>
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/synsense/sinabs?style=social)</td>
