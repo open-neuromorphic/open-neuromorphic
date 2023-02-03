@@ -298,3 +298,9 @@ ODIN is thus a versatile experimentation platform for learning at the edge, whil
 <img src="images/snn-asic-google-pengzhou.png" alt="snn-asic-google-pengzhou" width="500"/>
 
 An [SNN ASIC](https://github.com/pengzhouzp/wrapped_snn_network) with adaptive threshold neurons and recurrent connective synapses.
+
+### OpenSpike: An OpenRAM SNN AcceleratorOpenSpike
+
+<img src="images/OpenSpike.png" alt="OpenSpike" width="500"/>
+
+This paper presents a spiking neural network (SNN) accelerator made using fully open-source EDA tools, process design kit (PDK), and memory macros synthesized using OpenRAM. The chip is taped out in the 130 nm SkyWater process and integrates over 1 million synaptic weights, and offers a reprogrammable architecture. It operates at a clock speed of 40 MHz, a supply of 1.8 V, uses a PicoRV32 core for control, and occupies an area of 33.3 mm^2. The throughput of the accelerator is 48,262 images per second with a wallclock time of 20.72 us, at 56.8 GOPS/W. The spiking neurons use hysteresis to provide an adaptive threshold (i.e., a Schmitt trigger) which can reduce state instability. This results in high performing SNNs across a range of benchmarks that remain competitive with state-of-the-art, full precision SNNs. The design is open source and [available online](https://github.com/sfmth/OpenSpike).
