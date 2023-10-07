@@ -55,8 +55,7 @@ Open-source software to train spiking neural networks for ML tasks.
 ![GitHub Repo stars](https://img.shields.io/github/stars/synsense/rockpool?style=social)</td>
 <td>
 
-[Rockpool](https://synsense.gitlab.io/rockpool/) is a Python package for working with dynamical neural network architectures, particularly for designing event-driven networks for Neuromorphic computing hardware. Rockpool provides a convenient interface for designing, training and evaluating recurrent networks, which can operate both with continuous-time dynamics and event-driven dynamics.
-
+[Rockpool](https://synsense.gitlab.io/rockpool/) is a Machine Learning library for SNN applications. Design, train and test with GPU, TPU and CPU acceleration (based on PyTorch and Jax), then deploy to Neuromorphic compute hardware. Offers a convenient Torch-like API, and extensive documentation.
 </td>
 </tr>
 
