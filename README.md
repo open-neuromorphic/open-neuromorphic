@@ -72,6 +72,18 @@ It is based on PyTorch for GPU acceleration and gradient computation.
 </tr>
 
 <tr>
+<td><a href="https://github.com/kmheckel/spyx"><img src="blob/main/spyx.png" alt="Spyx" width="1000px"/></a>
+
+![GitHub Repo stars](https://img.shields.io/github/stars/kmheckel/spyx?style=social) </td>
+
+<td>
+
+[Spyx](https://github.com/kmheckel/spyx) is a compact spiking neural network package built on top of DeepMind's Haiku library. Based on JAX, it permits Just-In-Time compilation of partial or entire training loops for maximal utilization on GPUs and TPUs.
+
+</td>
+</tr>
+
+<tr>
 <td>
  
 ![GitHub Repo stars](https://img.shields.io/github/stars/fangwei123456/spikingjelly?style=social)</td>
