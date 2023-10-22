@@ -72,7 +72,7 @@ It is based on PyTorch for GPU acceleration and gradient computation.
 </tr>
 
 <tr>
-<td><a href="https://raw.githubusercontent.com/kmheckel/spyx"><img src="https://raw.githubusercontent.com/kmheckel/spyx/main/spyx.png" alt="Spyx" width="1000px"/></a>
+<td><a href="https://github.com/kmheckel/spyx"><img src="https://raw.githubusercontent.com/kmheckel/spyx/main/spyx.png" alt="Spyx" width="1000px"/></a>
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/kmheckel/spyx?style=social) </td>
 
