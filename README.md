@@ -1,5 +1,5 @@
 ![logo](images/ONM.png)
-# Open Neuromorphic
+# <a href="https://open-neuromorphic.org">Open Neuromorphic</a>
 
 This organisation is created by a loose collective of open source collaborators across academia, industry and individual contributors. What connects us is the love for building tools that can be used in the neuromorphic community and we want to share ownership of this vision. Open Neuromorphic (ONM) provides two things:
 
