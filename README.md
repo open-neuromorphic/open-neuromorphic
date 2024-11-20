@@ -291,7 +291,7 @@ ODIN is thus a versatile experimentation platform for learning at the edge, whil
 
 <img src="images/ranc.png" alt="ranc" width="500"/>
 
-[RANC](https://ua-rcl.github.io/RANC/) is a highly flexible environment that enables rapid experimentation with neuromorphic architectures in both software via C++ simulation and hardware via FPGA emulation. RANC enables hardware architects and application engineers to investigate and tune parameters of their neuromorphic architecture that would otherwise be unavailable on a purely prefabricated ASIC. This level of flexibility creates an environment that allows for optimizing architectures based on application insights as well as prototyping future neuromorphic architectures that can support new classes of applications entirely.
+[RANC](https://ua-rcl.github.io/projects/ranc/) is a highly flexible environment that enables rapid experimentation with neuromorphic architectures in both software via C++ simulation and hardware via FPGA emulation. RANC enables hardware architects and application engineers to investigate and tune parameters of their neuromorphic architecture that would otherwise be unavailable on a purely prefabricated ASIC. This level of flexibility creates an environment that allows for optimizing architectures based on application insights as well as prototyping future neuromorphic architectures that can support new classes of applications entirely.
 
 ### SNE: an Energy-Proportional Digital Accelerator for Sparse Event-Based Convolutions 
 
