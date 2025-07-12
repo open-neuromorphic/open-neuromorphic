@@ -1,18 +1,15 @@
 ![logo](images/ONM.png)
 # <a href="https://open-neuromorphic.org">Open Neuromorphic</a>
 
-This organisation is created by a loose collective of open source collaborators across academia, industry and individual contributors. What connects us is the love for building tools that can be used in the neuromorphic community and we want to share ownership of this vision. Open Neuromorphic (ONM) provides two things:
+Open Neuromorphic (ONM) is a global community fostering education, research, and open-source collaboration in brain-inspired AI and hardware. Our goal is to build a vibrant and accessible ecosystem for everyone interested in neuromorphic computing, from beginners to experts.
 
-1. A curated list of [software frameworks](https://open-neuromorphic.org/neuromorphic-computing/software/) to make it easier to find the tool you need.
-2. A platform for your code. If you wish to create a new repository or migrate your existing code to ONM, please get in touch with us. You will be made a member of this organisation immediately. 
+**What We Offer:**
 
-Projects that we list here can fall into this non-exclusive list of categories:
-- Spiking Neural Networks (SNNs) training and/or inference, for both ML and neuroscience application.
-- Event-based sensor data handling.
-- Digital hardware designs for neuromorphic applications.
-- Mixed-signal hardware designs for neuromorphic applications.
+*   **Resource Hubs:** Explore our curated guides to [Neuromorphic Hardware](https://open-neuromorphic.org/neuromorphic-computing/hardware/) and [Software](https://open-neuromorphic.org/neuromorphic-computing/software/), designed to help you navigate the landscape and find the right tools for your projects.
+*   **Community Events:** Participate in our workshops, student talks, and hacking hours to learn from experts, share your work, and collaborate on real-world challenges.
+*   **A Collaborative Platform:** Join over 2,000 members on our [Discord server](https://discord.gg/JParSCNe5k) for discussions, Q&A, and networking. 
 
-Get in touch with the organization on [Discord](https://discord.gg/JParSCNe5k)!
+We welcome contributions of all kinds. To learn how you can participate, visit our [Getting Involved page](https://open-neuromorphic.org/getting-involved/).
 
 # List of resources
 
